@@ -9,14 +9,14 @@ const shortcutLinks = [
   {
     name: '애드포스트',
     subtitle: '수익 / 광고 관리',
-    url: 'https://ad.post.naver.com/',
+    url: 'https://adpost.naver.com/main',
     icon: 'A',
     className: 'ad'
   },
   {
     name: '쇼핑 커넥트',
     subtitle: '상품 / 연계 관리',
-    url: 'https://partner.shopping.naver.com/',
+    url: 'https://brandconnect.naver.com/980838492743328/affiliate/products',
     icon: 'S',
     className: 'shopping'
   },
@@ -44,7 +44,7 @@ const shortcutLinks = [
   {
     name: '강남맛집',
     subtitle: '맛집 정보 / 탐색',
-    url: 'https://www.google.com/search?q=%EA%B0%95%EB%82%A8+%EB%A7%9B%EC%A7%91',
+    url: 'https://xn--939au0g4vj8sq.net/mypage/index.php',
     icon: 'G',
     className: 'gangnam'
   }

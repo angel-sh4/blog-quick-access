@@ -23,7 +23,7 @@ const shortcutLinks = [
   {
     name: '캡컷',
     subtitle: '영상 편집',
-    url: 'https://www.capcut.com/ko-kr/,
+    url: 'https://www.capcut.com/ko-kr/',
     icon: 'C',
     className: 'capcut'
   },
